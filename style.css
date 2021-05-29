@@ -546,6 +546,10 @@ h1 {
 }
 .breadcrumb a{
   color: rgb(67, 126, 235) !important;
+  font-family: 'karla' !important;
+}
+.breadcrumb li{
+  font-family: 'karla' !important;
 }
 .breadcrumb a:hover{
   color: rgb(49, 62, 91) !important;
