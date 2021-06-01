@@ -278,6 +278,39 @@ h1 {
     height: 100%;
     width: 100%;
   }
+  .fa-text-div{
+    margin-top: 70px !important;
+  }
+  .left-img-1{
+    position: absolute;
+    bottom: 14%;
+    left: 0%;
+    z-index: 1;
+    width: 22%;
+  }
+  .left-img-2{
+    position: absolute;
+    bottom: 24%;
+    left: 10%;
+    z-index: 1;
+    width: 12%;
+    animation: up 2s infinite;
+  }
+  .right-img-1{
+    position: absolute;
+    bottom: 14%;
+    right: 0%;
+    width: 30%;
+    z-index: 1;
+  }
+  .right-img-2{
+    position: absolute;
+    bottom: 24%;
+    right: 0%;
+    z-index: 1;
+    width: 20%;
+    animation: up 2s infinite;
+  }
 }
 
 /* ----------------------------------------------------------------------DATA-SECTION------------------------------------------------------------------------ */
