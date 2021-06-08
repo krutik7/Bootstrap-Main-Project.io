@@ -1275,7 +1275,6 @@ h1 {
   height: 50px;
   font-family: 'karla';
   border: 2px solid white;
-  padding-right: 50px !important;
 }
 .search-div .form-control:hover{
   border: 2px solid rgb(67, 126, 235);
@@ -1356,7 +1355,7 @@ h1 {
     height: 40px;
     width: 40px;
     top: 27%;
-    right: 5%;
+    right: 8%;
   }
   .recent-h1{
     font-size: 20px;
@@ -1366,9 +1365,6 @@ h1 {
   }
   .rece-h1{
     font-size: 15px;
-  }
-  .search-div .form-control{
-    padding-right: 40px !important;
   }
 }
 
